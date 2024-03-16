@@ -1,9 +1,7 @@
 # Software Programming Quiz
+An open-source web-based quiz app, making quiz creation simpler for creators and quizzes more accessible for takers
 
-The website is currently hosted in the OSU servers:
-http://flip3.engr.oregonstate.edu:12118/
-
-Please be on the OSU VPN in order to see and interact with the website.
+View the project demo and learn about team member roles here: https://www.youtube.com/watch?v=mULZGUP-Nc4&feature=youtu.be
 
 INSTRUCTIONS TO LAUNCH LOCALLY:
 Please follow instructions here to launch this locally: https://github.com/osu-cs340-ecampus/flask-starter-app 
